@@ -25,6 +25,8 @@ Este projeto é um rework de um portfólio antigo de uma fotógrafa, que inicial
 
 O Que Eu Aprendi
 
+    Como instalar o Bootstrap localmente no projeto
+
     Como usar o Bootstrap 5 para construir layouts responsivos de forma rápida.
 
     Como utilizar componentes prontos do Bootstrap, como botões, formulários e cards, sem precisar de muito código.
